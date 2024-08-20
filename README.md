@@ -1,5 +1,5 @@
-# Documentations
-### **Steps to Push a Docker Image to Docker Hub and Configure GitHub Actions**
+
+# **Steps to Push a Docker Image to Docker Hub and Configure GitHub Actions**
 
 #### **1. Build and Push Docker Image to Docker Hub**
 
