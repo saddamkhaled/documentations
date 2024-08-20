@@ -2,7 +2,7 @@
 
 ---
 
-### **How to Set Up and Deploy Your Application on Kubernetes: Local and AWS EKS**
+## **How to Set Up and Deploy Your Application on Kubernetes: Local and AWS EKS**
 
 ---
 
