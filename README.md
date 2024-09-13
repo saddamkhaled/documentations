@@ -163,7 +163,7 @@ Access **Grafana** and configure Prometheus as a data source, then create dashbo
 
 ## 👨‍💻 Contributing
 
-Feel free to submit issues and pull requests for improvements. Follow the guidelines in `CONTRIBUTING.md` for best practices.
+Feel free to submit issues and pull requests for improvements. Follow the guidelines  for best practices.
 
 ---
 
@@ -175,7 +175,7 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-For any questions or support, feel free to contact me at [your-email@example.com].
+For any questions or support, feel free to contact me at [saddambenkhaled@gmail.com].
 
 ---
 
