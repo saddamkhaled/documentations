@@ -1,4 +1,3 @@
-Here’s a **README.md** file for your Task Management App project that explains the technical stack and how you used **Angular** along with other tools like **GitHub Actions**, **Docker**, **Minikube**, **Portainer**, and monitoring tools like **Prometheus** and **Grafana**.
 
 ---
 
