@@ -24,11 +24,28 @@ This project also integrates a full DevOps pipeline, including continuous integr
 - **Docker Hub**: Storing and sharing Docker images.
 - **Minikube**: Local Kubernetes environment for testing deployments.
 - **Portainer**: Simplified management of Docker environments.
+
+![Capture portainer](https://github.com/user-attachments/assets/b3d6b16c-1e9f-404a-b795-a21150b99d43)
+
+
+
   
 ### **Monitoring Tools**
 - **Node Exporter**: Collecting system metrics from containers.
+
+![Capture metrics node exporter](https://github.com/user-attachments/assets/e7c89cad-a585-4a83-b969-4831fb0bbe4b)
+
+
 - **Prometheus**: Collecting and storing metrics data for analysis.
+
+![Capture prometheus](https://github.com/user-attachments/assets/da0f6bf0-1517-4e33-a109-a1d61be2a8d1)
+
+
 - **Grafana**: Visualizing metrics and creating monitoring dashboards.
+
+![Capture grafana](https://github.com/user-attachments/assets/01a67653-dcae-4832-8f47-b28939455f50)
+
+
 
 ---
 
