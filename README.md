@@ -196,4 +196,3 @@ For any questions or support, feel free to contact me at [saddambenkhaled@gmail.
 
 ---
 
-This README provides a clear explanation of your project, including setup instructions, containerization, and monitoring tools used. It is ready to be published on GitHub!
