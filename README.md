@@ -1,7 +1,7 @@
 
 ---
 
-# Task Management App
+# DevOps pipeline-Task Management App
 
 This repository contains the **Task Management App**, developed using **Angular** for the frontend, along with several DevOps tools and monitoring solutions for continuous integration, containerization, and performance monitoring.
 
